@@ -6,3 +6,4 @@ puts instructors
 
 new_partners = ["Ryan", "Matt"]
 
+puts new_partners
