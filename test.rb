@@ -1,5 +1,5 @@
 partners = ["Nate", "Dave"]
-instructors = ["Arjun", "Jeff"]
+instructors = ["Arjun", "Jeff", "Raghu"]
 
 puts partners
 puts instructors
