@@ -7,4 +7,4 @@ puts new_partners
 
 new_partners = ["Ryan", "Matt"]
 
-puts new_partners
+puts "this better work"
