@@ -1,4 +1,4 @@
-partners = ["Nate", "David"]
+partners = ["Nate", "Dave"]
 instructors = ["Arjun", "Jeff"]
 
 puts partners
